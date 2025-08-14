@@ -22,15 +22,15 @@ START_TIME = time.time()
 # Ask Doubt on telegram @KingVJ01
 
 main_buttons = [[
-    InlineKeyboardButton('❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ ❣️', url='https://t.me/MR_ABHAY_K')
+    InlineKeyboardButton('👨🏻‍💻 ᴄʀᴇᴀᴛᴏʀ 👨🏻‍💻', url='https://t.me/MR_ABHAY_K')
 ],[
-    InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/AK_BOTZ_SUPPORT'),
+    InlineKeyboardButton('💬 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/AK_BOTZ_SUPPORT'),
     InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/AK_bOTZ_UPDATE')
 ],[
-    InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+    InlineKeyboardButton('🎬 ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ 🎬', url='https://youtube.com/@Tech_VJ')
 ],[
-    InlineKeyboardButton('👨‍💻 ʜᴇʟᴘ', callback_data='help'),
-    InlineKeyboardButton('💁 ᴀʙᴏᴜᴛ', callback_data='about')
+    InlineKeyboardButton('🤝 ʜᴇʟᴘ', callback_data='help'),
+    InlineKeyboardButton('🧬 ᴀʙᴏᴜᴛ', callback_data='about')
 ],[
     InlineKeyboardButton('⚙ sᴇᴛᴛɪɴɢs', callback_data='settings#main')
 ]]
