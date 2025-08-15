@@ -14,7 +14,8 @@ class Config:
     API_ID = int(environ.get("API_ID", "123456"))  # Put default valid int to avoid crash
     API_HASH = environ.get("API_HASH", "")
     BOT_TOKEN = environ.get("BOT_TOKEN", "")
-    BOT_SESSION = environ.get("BOT_SESSION", "vjbot")
+    BOT_SESSION = environ.get("BOT_SESSION", "AK_BOTZ_UPDATE")
     DATABASE_URI = environ.get("DATABASE_URI", "")
-    DATABASE_NAME = environ.get("DATABASE_NAME", "vj-forward-bot")
+    DATABASE_NAME = environ.get("DATABASE_NAME", "AK_BOTZ_UPDATE")
     BOT_OWNER = int(environ.get("BOT_OWNER", "7037505654"))  # Default owner for safe testing
+
