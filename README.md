@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/D0qQ884r/FORWARD-BOT-PIC-17.png" alt="Forward Bot Banner" width="450"/>
+  <img src="https://i.postimg.cc/D0qQ884r/FORWARD-BOT-PIC-17.png" alt="Forward Bot Banner" width="550"/>
 </p>
 
 
@@ -23,7 +23,7 @@
 - [x] Auto Restart Pending Task After Bot Restart 
 
 
-<b>To Know About All Features, Join My <a href='https://t.me/VJ_Botz'>Update Channel</a>.</b>
+<b>To Know About All Features, Join My <a href='https://t.me/AK_Botz_UPDATE'>Update Channel</a>.</b>
 
 ## Commands
 
@@ -49,4 +49,4 @@ broadcast - broadcast a message to all your users (owner only)
 
 ## Credits
 
-* <b>[Tech VJ](https://youtube.com/@Tech_VJ)</b>
+* <b>[MR ABHAY](https://t.me/mr_abhay_k)</b>
