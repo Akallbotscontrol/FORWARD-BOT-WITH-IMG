@@ -1,6 +1,4 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @AK_BOTZ_SUPPORT
 
 import re, asyncio
 from database import Db, db
@@ -13,9 +11,7 @@ from pyrogram import Client, filters, enums
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 import struct
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @AK_BOTZ_SUPPORT
 
 CLIENT = CLIENT()
 COMPLETED_BTN = InlineKeyboardMarkup(
@@ -27,9 +23,7 @@ COMPLETED_BTN = InlineKeyboardMarkup(
 )
 CANCEL_BTN = InlineKeyboardMarkup([[InlineKeyboardButton('• ᴄᴀɴᴄᴇʟ', 'terminate_frwd')]])
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @AK_BOTZ_SUPPORT
 
 def encode_file_id(s: bytes) -> str:
     r = b""
@@ -47,9 +41,7 @@ def encode_file_id(s: bytes) -> str:
 
     return base64.urlsafe_b64encode(r).decode().rstrip("=")
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @AK_BOTZ_SUPPORT
 
 def unpack_new_file_id(new_file_id):
     """Return file_id"""
@@ -65,9 +57,7 @@ def unpack_new_file_id(new_file_id):
     )
     return file_id
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @AK_BOTZ_SUPPORT
 
 @Client.on_message(filters.command("unequify") & filters.private)
 async def unequify(client, message):
@@ -148,6 +138,4 @@ async def unequify(client, message):
    await sts.edit(Script.DUPLICATE_TEXT.format(total, deleted, "ᴄᴏᴍᴘʟᴇᴛᴇᴅ"), reply_markup=COMPLETED_BTN)
    await bot.stop()
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @AK_BOTZ_SUPPORT
