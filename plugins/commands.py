@@ -23,7 +23,7 @@ main_buttons = [[
     InlineKeyboardButton('💬 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/AK_BOTZ_SUPPORT'),
     InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/AK_bOTZ_UPDATE')
 ],[
-    InlineKeyboardButton('🎬 ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ 🎬', url='https://youtube.com/@Tech_VJ')
+    InlineKeyboardButton('🎬 ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ 🎬', url='https://t.me/movie_mines_update')
 ],[
     InlineKeyboardButton('🤝 ʜᴇʟᴘ', callback_data='help'),
     InlineKeyboardButton('🧬 ᴀʙᴏᴜᴛ', callback_data='about')
